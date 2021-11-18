@@ -1,1 +1,3 @@
-# Code Refactor Starter Code
+Horiseon CSS and HTML semantic Clean up.
+
+
